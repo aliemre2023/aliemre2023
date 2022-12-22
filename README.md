@@ -1,4 +1,4 @@
 ## Snake eating my contributions
-![snake gif](https://github.com/YOUR_USERNAME/aliemre2023/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/aliemre2023/aliemre2023/blob/output/github-contribution-grid-snake.gif)
 
 
