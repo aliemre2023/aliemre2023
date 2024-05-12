@@ -15,6 +15,7 @@
   <img alt="matplotlib" title="matplotlib" height="40" width="40" src="https://github.com/aliemre2023/aliemre2023/assets/93014021/75058ee9-edcb-4003-8d70-a437aeaf765d">
   <img alt="opencv" title="opencv" height="40" width="40" src="https://cdn.simpleicons.org/opencv">
   <img alt="selenium" title="selenium" height="40" width="40" src="https://cdn.simpleicons.org/selenium">
+   <img alt="qt" title="qt" height="40" width="40"  src="https://cdn.simpleicons.org/qt">
 </p>
 
 
