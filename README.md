@@ -5,8 +5,8 @@
    <img src="https://github-readme-stats.vercel.app/api?username=aliemre2023&show_icons=true&theme=bear" width="400">
 </p>
 <p align="center">
-  <img alt="jupyter" title="jupyter" height="40" width="40"  src="https://cdn.simpleicons.org/python">
-  <img alt="npm" title="npm" height="40" width="40" src="https://cdn.simpleicons.org/jupyter">
+  <img alt="python" title="python" height="40" width="40"  src="https://cdn.simpleicons.org/python">
+  <img alt="jupyter" title="jupyter" height="40" width="40" src="https://cdn.simpleicons.org/jupyter">
   <img alt="c++" title="c++" height="40" width="40" src="https://cdn.simpleicons.org/c++">
 </p>
 <p align="center">
