@@ -18,6 +18,12 @@
    <img alt="qt" title="qt" height="40" width="40"  src="https://cdn.simpleicons.org/qt">
 </p>
 
+<p align="center">
+   <img alt="docker" title="docker" height="40" width="40"  src="https://cdn.simpleicons.org/docker">
+   <img alt="git" title="git" height="40" width="40"  src="https://cdn.simpleicons.org/git">
+   <img alt="visualstudiocode" title="visualstudiocode" height="40" width="40"  src="https://cdn.simpleicons.org/visualstudiocode">  
+</p>
+
 
 
 
