@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=aliemre2023&show_icons=true&theme=bear" width="400">
+   <img src="https://github-readme-stats.vercel.app/api?username=aliemre2023&show_icons=true&theme=dark" width="400">
 </p>
 <p align="center">
   <img alt="python" title="python" height="40" width="40"  src="https://cdn.simpleicons.org/python">
