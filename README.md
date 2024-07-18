@@ -6,7 +6,6 @@
 </p>
 <p align="center">
   <img alt="python" title="python" height="40" width="40"  src="https://cdn.simpleicons.org/python">
-  <img alt="jupyter" title="jupyter" height="40" width="40" src="https://cdn.simpleicons.org/jupyter">
   <img alt="c++" title="c++" height="40" width="40" src="https://cdn.simpleicons.org/c++">
   <img alt="java" title="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
@@ -27,7 +26,9 @@
 <p align="center">
    <img alt="docker" title="docker" height="40" width="40"  src="https://cdn.simpleicons.org/docker">
    <img alt="git" title="git" height="40" width="40"  src="https://cdn.simpleicons.org/git">
+   <img alt="jupyter" title="jupyter" height="40" width="40" src="https://cdn.simpleicons.org/jupyter">
    <img alt="sqlite" title="sqlite" height="40" width="40"  src="https://github.com/aliemre2023/aliemre2023/assets/93014021/4a8869b5-fe36-41da-8d9c-8292ae9fffb3">
+   
 
 </p>
 
