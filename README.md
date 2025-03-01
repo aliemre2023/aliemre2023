@@ -19,7 +19,12 @@
    <img alt="git" title="git" height="40" width="40"  src="https://cdn.simpleicons.org/git">
    <img alt="jupyter" title="jupyter" height="40" width="40" src="https://cdn.simpleicons.org/jupyter">
    <img alt="sqlite" title="sqlite" height="40" width="40"  src="https://github.com/aliemre2023/aliemre2023/assets/93014021/4a8869b5-fe36-41da-8d9c-8292ae9fffb3">
+   <img alt="postgresql" title="postgresql" height="40" width="40" src="https://cdn.simpleicons.org/postgresql">
    <img alt="react" title="react" height="40" width="40" src="https://cdn.simpleicons.org/react">
+   <img alt="flask" title="flask" height="40" width="40" src="https://cdn.simpleicons.org/flask">
+   <img alt="s3" title="s3" height="40" width="40" src="https://github.com/user-attachments/assets/fa8b5165-2659-4086-bc59-143f0590f1cb">
+
+   
 
    <img alt="T" title="T" height="40" width="40"  src="https://github.com/user-attachments/assets/d4359836-61a0-4dcd-952a-bedd655ae546">
 
