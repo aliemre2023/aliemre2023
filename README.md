@@ -23,6 +23,7 @@
    <img alt="react" title="react" height="40" width="40" src="https://cdn.simpleicons.org/react">
    <img alt="flask" title="flask" height="40" width="40" src="https://cdn.simpleicons.org/flask">
    <img alt="s3" title="s3" height="40" width="40" src="https://github.com/user-attachments/assets/fa8b5165-2659-4086-bc59-143f0590f1cb">
+   <img alt="unity" title="unity" height="40" width="40" src="https://github.com/user-attachments/assets/2401eaf6-80a5-4444-8d83-8aae69904833">
 
    
 
