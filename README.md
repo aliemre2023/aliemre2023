@@ -45,7 +45,7 @@
 
   <img  position=absolute width=120px src="https://github.com/aliemre2023/aliemre2023/assets/93014021/75ed0386-58bc-4644-a840-c33759b1d481">
   
-  <img  position=absolute src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliemre2023&layout=compact&size_weight=0.25&count_weight=0.5&theme=gruvbox_light&langs_count=110&width=300">
+  <img  position=absolute src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliemre2023&layout=compact&size_weight=0.25&count_weight=0.5&theme=gruvbox_light&langs_count=10&width=300">
   
   <img position=absolute width=120px src="https://github.com/aliemre2023/aliemre2023/assets/93014021/d5d04f91-a0b7-4066-ac72-c1c0e05a811e">
   
