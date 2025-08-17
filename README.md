@@ -14,6 +14,8 @@
    <img alt="js" title="js" height="40" width="40" src="https://cdn.simpleicons.org/javascript">
 
    <img alt="T" title="T" height="40" width="40"  src="https://github.com/user-attachments/assets/d4359836-61a0-4dcd-952a-bedd655ae546">
+   <!--<img width="40" src="https://github.com/user-attachments/assets/e457b761-4e2d-405e-911e-b2e86258ca90">-->
+
 
    <img alt="docker" title="docker" height="40" width="40"  src="https://cdn.simpleicons.org/docker">
    <img alt="git" title="git" height="40" width="40"  src="https://cdn.simpleicons.org/git">
@@ -50,3 +52,11 @@
   <img position=absolute width=120px src="https://github.com/aliemre2023/aliemre2023/assets/93014021/d5d04f91-a0b7-4066-ac72-c1c0e05a811e">
   
 </p>
+
+
+
+<p align="center">
+
+   <img src="https://github.com/user-attachments/assets/e457b761-4e2d-405e-911e-b2e86258ca90">
+</p>
+
