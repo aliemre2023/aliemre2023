@@ -1,9 +1,11 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/93014021/224484719-d333fb14-bc61-469b-b70b-5874aae61228.gif"></p>
 
-
+<!---
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=aliemre2023&show_icons=true&theme=dark" width="400">
 </p>
+-->
+
 <p align="center">
 
    <img alt="T" title="T" height="40" width="40"  src="https://github.com/user-attachments/assets/d4359836-61a0-4dcd-952a-bedd655ae546">
@@ -50,9 +52,12 @@
 <p align="center">
 
   <img  position=absolute width=120px src="https://github.com/aliemre2023/aliemre2023/assets/93014021/75ed0386-58bc-4644-a840-c33759b1d481">
-  
+
+  <!--
   <img  position=absolute src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliemre2023&hide=jupyter%20notebook,shaderlab,tex,hlsl,html&layout=compact&size_weight=0.25&count_weight=0&theme=gruvbox_light&langs_count=8&width=300">
-  
+  -->
+  <img  height=170px position=absolute src="https://github.com/user-attachments/assets/96c5ecdd-ba49-421d-a5a9-3297da57b0bb">
+
   <img position=absolute width=120px src="https://github.com/aliemre2023/aliemre2023/assets/93014021/d5d04f91-a0b7-4066-ac72-c1c0e05a811e">
   
 </p>
