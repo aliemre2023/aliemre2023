@@ -8,32 +8,26 @@
 
 <p align="center">
 
-   <img alt="T" title="T" height="40" width="40"  src="https://github.com/user-attachments/assets/d4359836-61a0-4dcd-952a-bedd655ae546">
-   
-   <img alt="python" title="python" height="40" width="40"  src="https://cdn.simpleicons.org/python">
-   <img alt="c++" title="c++" height="40" width="40" src="https://cdn.simpleicons.org/c++">
-   <img alt="java" title="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-   <img alt="js" title="js" height="40" width="40" src="https://cdn.simpleicons.org/javascript">
-
-   <img alt="T" title="T" height="40" width="40"  src="https://github.com/user-attachments/assets/d4359836-61a0-4dcd-952a-bedd655ae546">
-   <!--<img width="40" src="https://github.com/user-attachments/assets/e457b761-4e2d-405e-911e-b2e86258ca90">-->
-
-
-   <img alt="docker" title="docker" height="40" width="40"  src="https://cdn.simpleicons.org/docker">
-   <img alt="git" title="git" height="40" width="40"  src="https://cdn.simpleicons.org/git">
-   <img alt="jupyter" title="jupyter" height="40" width="40" src="https://cdn.simpleicons.org/jupyter">
-   <img alt="sqlite" title="sqlite" height="40" width="40"  src="https://github.com/aliemre2023/aliemre2023/assets/93014021/4a8869b5-fe36-41da-8d9c-8292ae9fffb3">
-   <img alt="postgresql" title="postgresql" height="40" width="40" src="https://cdn.simpleicons.org/postgresql">
-   <img alt="react" title="react" height="40" width="40" src="https://cdn.simpleicons.org/react">
-   <img alt="flask" title="flask" height="40" width="40" src="https://cdn.simpleicons.org/flask">
-   <img alt="s3" title="s3" height="40" width="40" src="https://github.com/user-attachments/assets/fa8b5165-2659-4086-bc59-143f0590f1cb">
-   <img alt="unity" title="unity" height="40" width="40" src="https://github.com/user-attachments/assets/2401eaf6-80a5-4444-8d83-8aae69904833">
-
-   
-
-   <img alt="T" title="T" height="40" width="40"  src="https://github.com/user-attachments/assets/d4359836-61a0-4dcd-952a-bedd655ae546">
+   <img height="40" width="40"  src="https://github.com/user-attachments/assets/d4359836-61a0-4dcd-952a-bedd655ae546">
+   <img height="40" width="40"  src="https://github.com/user-attachments/assets/0b1080e5-da7c-4086-97c2-783303caf5bf">
+   <img height="40" width="40"  src="https://github.com/user-attachments/assets/f67c595e-53c7-4b16-8e2b-88be81965b74">
+   <img height="40" width="40"  src="https://github.com/user-attachments/assets/4513f472-3ea7-45bc-8250-62a7643e77ac">
+   <img height="40" width="40"  src="https://github.com/user-attachments/assets/66e38edf-4ca7-40f0-bfcf-49698729a938">
+   <img height="40" width="40"  src="https://github.com/user-attachments/assets/0b1080e5-da7c-4086-97c2-783303caf5bf">
+   <img height="40" width="40"  src="https://github.com/user-attachments/assets/4513f472-3ea7-45bc-8250-62a7643e77ac">
+   <img height="40" width="40"  src="https://github.com/user-attachments/assets/f40db04c-8e1a-4696-85c2-b9cdf1034b3c">
 
    <!--
+   <img width="452" height="303" alt="jelly" src="https://github.com/user-attachments/assets/4513f472-3ea7-45bc-8250-62a7643e77ac" />
+![moxxie](https://github.com/user-attachments/assets/f40db04c-8e1a-4696-85c2-b9cdf1034b3c)
+![alastor](https://github.com/user-attachments/assets/66e38edf-4ca7-40f0-bfcf-49698729a938)
+
+<img width="500" height="500" alt="jelly" src="https://github.com/user-attachments/assets/29e3c1c9-401a-434e-b41d-5ce776d1b270" />
+
+   <img width="350" height="347" alt="erdalbakkal" src="https://github.com/user-attachments/assets/f67c595e-53c7-4b16-8e2b-88be81965b74" />
+
+
+
    <img alt="numpy" title="numpy" height="40" width="40" src="https://github.com/aliemre2023/aliemre2023/assets/93014021/2294b5f4-cfbd-48fd-a82c-d04ac23a5533">
    <img alt="pandas" title="pandas" height="40" width="40"  src="https://github.com/aliemre2023/aliemre2023/assets/93014021/f8e9b73f-e15e-471b-ae19-c645cb5cbae9">
    <img alt="matplotlib" title="matplotlib" height="40" width="40" src="https://github.com/aliemre2023/aliemre2023/assets/93014021/75058ee9-edcb-4003-8d70-a437aeaf765d">
