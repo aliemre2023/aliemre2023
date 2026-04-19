@@ -1,11 +1,29 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/93014021/224484719-d333fb14-bc61-469b-b70b-5874aae61228.gif"></p>
 
+
+<pre>
+Hi, I'm Ali Emre 👋
+
+> B.Sc. Computer Engineering @ Istanbul Technical University
+
+> AI Engineer @ DefineX
+- Integrating AI into credit risk decision pipelines (in İşbank)
+- Deploying production-level AI systems (in İşbank)
+- Building legacy code transformation pipelines
+
+> Personal Interests
+- Exploring AI for real-world applications
+</pre>
+
+
+
 <!---
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=aliemre2023&show_icons=true&theme=dark" width="400">
 </p>
 -->
 
+<!--
 <p align="center">
 
    <img height="40" width="40"  src="https://github.com/user-attachments/assets/d4359836-61a0-4dcd-952a-bedd655ae546">
@@ -20,7 +38,7 @@
    
    <img width="40" height="40" src="https://github.com/user-attachments/assets/395df49b-a159-49d6-80ca-84ea98094d71" />
    <img width="40" height="40" src="https://github.com/user-attachments/assets/e76ba120-11e3-4608-9aff-6253c4c9570f" />
-
+-->
    <!--
    <img width="452" height="303" alt="jelly" src="https://github.com/user-attachments/assets/4513f472-3ea7-45bc-8250-62a7643e77ac" />
 ![moxxie](https://github.com/user-attachments/assets/f40db04c-8e1a-4696-85c2-b9cdf1034b3c)
